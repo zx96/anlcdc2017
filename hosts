@@ -1,0 +1,9 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.0.1	pf	pf.pangea.local
+192.168.0.4	sim	sim.pangea.local
+192.168.0.20	ntp	ntp.pangea.local
+192.168.0.30	files	files.pangea.local
+192.168.0.40	dc	dc.pangea.local	pangea.local
+192.168.0.60	mail	mail.pangea.local
+192.168.0.70	www	www.pangea.local
